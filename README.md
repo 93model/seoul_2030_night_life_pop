@@ -14,4 +14,5 @@
     - 남성이 더 많은 곳 : 대학동, 가산동, 노량진1동  → 고시생, 공장지역
     - 여성이 더 많은 곳 : 신촌동, 서교동, 진관동, 성산2동 → 신촌,홍대 (마포구) 문화생활의 중심
     
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c055470-29fa-4636-8dbd-0edcb56e95b0/Untitled.png)
+![캡처](/img/Tableau_2030_1.PNG)
+ 
